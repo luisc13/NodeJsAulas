@@ -1,0 +1,8 @@
+{
+  "name": "CursoNode",
+  "version": "1.0.0",
+  "description": "nodejs, express, fs,path, url, mongodb, udp, crypto",
+  "main": "index.js",
+  "author": "Luis Carlos",
+  "license": "MIT"
+}
