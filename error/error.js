@@ -17,6 +17,5 @@ function init(){
         console.log('Temos um problema!', e.message)
     }
 }
-
 init()
 console.log('Depois do erro')
